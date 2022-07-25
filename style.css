@@ -1,0 +1,40 @@
+p {
+    color:antiquewhite;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+body{
+    color:deeppink;
+    text-align: center;
+    background: linear-gradient(lightgreen,skyblue);
+}
+hr {
+width:100px;
+    height:4px;
+    background-color: black;
+}
+h1 {
+    color:darkseagreen;
+    font-family: monospace;
+    text-decoration: underline;
+}
+div {
+    background-color:lightpink;
+}
+ul {
+top:10px;
+    right:30px;
+    position:fixed;
+}
+li {
+    font-family: sans-serif;
+    float: left;
+    color: coral;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+li:hover {
+    background-color: beige;
+}
